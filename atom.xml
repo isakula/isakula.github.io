@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://isakula.github.io</id>
     <title>Gridea</title>
-    <updated>2020-09-09T07:11:43.786Z</updated>
+    <updated>2020-09-09T07:39:45.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://isakula.github.io"/>
     <link rel="self" href="https://isakula.github.io/atom.xml"/>
@@ -16,7 +16,14 @@
         <link href="https://isakula.github.io/post/biao-ti-ce-shi/">
         </link>
         <updated>2020-09-09T07:05:51.000Z</updated>
-        <content type="html"><![CDATA[<p>一个新的博客诞生啦～</p>
+        <summary type="html"><![CDATA[<p>一个新的博客诞生啦～<br>
+<img src="https://isakula.github.io/post-images/1599637102250.jpg" alt="" loading="lazy"><br>
+😎😚😋😜</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>一个新的博客诞生啦～<br>
+<img src="https://isakula.github.io/post-images/1599637102250.jpg" alt="" loading="lazy"><br>
+😎😚😋😜</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
